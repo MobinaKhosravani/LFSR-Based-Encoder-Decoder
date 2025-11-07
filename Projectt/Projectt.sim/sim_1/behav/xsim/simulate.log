@@ -1,0 +1,7 @@
+Vivado Simulator 2019.1
+Time resolution is 1 ps
+Time	DataIn	Encoded	Decoded	Status
+              130000	1	0	1	MATCHING
+Error: Error: Mismatched headers produced correct output!
+Time: 350 ns  Iteration: 0  Process: /TB_Top_EncoderDecoder/Initial25_5  File: D:/Uni/digital logic/Projectt/Projectt.srcs/sim_1/new/testbench.v
+$finish called at time : 350 ns : File "D:/Uni/digital logic/Projectt/Projectt.srcs/sim_1/new/testbench.v" Line 53

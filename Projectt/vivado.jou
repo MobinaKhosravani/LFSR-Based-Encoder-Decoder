@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Fri Nov  7 15:18:19 2025
+# Process ID: 5284
+# Current directory: D:/Uni/digital logic/ProjectDL/Projectt
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent8284 D:\Uni\digital logic\ProjectDL\Projectt\Projectt.xpr
+# Log file: D:/Uni/digital logic/ProjectDL/Projectt/vivado.log
+# Journal file: D:/Uni/digital logic/ProjectDL/Projectt\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {D:/Uni/digital logic/ProjectDL/Projectt/Projectt.xpr}
+update_compile_order -fileset sources_1

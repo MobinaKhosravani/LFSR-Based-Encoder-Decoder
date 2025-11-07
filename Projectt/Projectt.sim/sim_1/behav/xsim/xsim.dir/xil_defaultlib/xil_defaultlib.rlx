@@ -1,0 +1,7 @@
+0.6
+2019.1
+May 24 2019
+15:06:07
+D:/Uni/digital logic/Projectt/Projectt.sim/sim_1/behav/xsim/glbl.v,1558713910,verilog,,,,glbl,,,,,,,,
+D:/Uni/digital logic/Projectt/Projectt.srcs/sim_1/new/testbench.v,1737925328,verilog,,,,TB_Top_EncoderDecoder,,,,,,,,
+D:/Uni/digital logic/Projectt/Projectt.srcs/sources_1/new/TopModule.v,1737925604,verilog,,D:/Uni/digital logic/Projectt/Projectt.srcs/sim_1/new/testbench.v,,Decoder;Encoder;LSFR_15bit;Top_EncoderDecoder,,,,,,,,
